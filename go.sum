@@ -64,6 +64,8 @@ github.com/olekukonko/tablewriter v0.0.5 h1:P2Ga83D34wi1o9J6Wh1mRuqd4mF/x/lgBS7N
 github.com/olekukonko/tablewriter v0.0.5/go.mod h1:hPp6KlRPjbx+hW8ykQs1w3UBbZlj6HuIJcUGPhkA7kY=
 github.com/penny-vault/go-tasty v0.1.0 h1:zyltYMz3GDcW+fTRfZI/OVrArA/2RVg1Jdgy/9BxvXU=
 github.com/penny-vault/go-tasty v0.1.0/go.mod h1:mbW5oO/58ZQXxh27oFps9D36fbo2GTGjjqkFos8oNhM=
+github.com/penny-vault/go-tasty v0.1.1 h1:qhfp5JhOaq6PUy8+7z2crXXGRgvX0EEuZ3c8BxX/SCU=
+github.com/penny-vault/go-tasty v0.1.1/go.mod h1:mbW5oO/58ZQXxh27oFps9D36fbo2GTGjjqkFos8oNhM=
 github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/rivo/uniseg v0.1.0/go.mod h1:J6wj4VEh+S6ZtnVlnTBMWIodfgj8LQOQFoIToxlJtxc=

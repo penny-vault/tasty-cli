@@ -40,7 +40,7 @@ require (
 	github.com/keybase/go-keychain v0.0.0-20231219164618-57a3676c3af6
 	github.com/mattn/go-colorable v0.1.13 // indirect
 	github.com/mattn/go-isatty v0.0.20 // indirect
-	github.com/penny-vault/go-tasty v0.1.1-dev4
+	github.com/penny-vault/go-tasty v0.1.1
 	github.com/spf13/cobra v1.8.0
 	github.com/spf13/pflag v1.0.5 // indirect
 	github.com/tidwall/gjson v1.17.0 // indirect
@@ -65,4 +65,9 @@ replace (
 	github.com/penny-vault/go-tasty v0.1.1-dev2 => ../go-tasty
 	github.com/penny-vault/go-tasty v0.1.1-dev3 => ../go-tasty
 	github.com/penny-vault/go-tasty v0.1.1-dev4 => ../go-tasty
+	github.com/penny-vault/go-tasty v0.1.1-dev5 => ../go-tasty
+	github.com/penny-vault/go-tasty v0.1.1-dev6 => ../go-tasty
+	github.com/penny-vault/go-tasty v0.1.1-dev7 => ../go-tasty
+	github.com/penny-vault/go-tasty v0.1.1-dev8 => ../go-tasty
+	github.com/penny-vault/go-tasty v0.1.1-dev9 => ../go-tasty
 )
